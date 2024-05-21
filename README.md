@@ -1,27 +1,10 @@
-# [Your Name]'s GitHub Profile
+# [ibrahimmohelsayed]'s GitHub Profile
 
 ## About Me
 
 ### Lead DevOps Engineer & MBA Candidate in Digital Transformation
 
-Hello! I am [Your Name], a seasoned Lead DevOps Engineer with extensive experience in cloud platforms, containerization, and continuous integration/continuous deployment (CI/CD) across various industries. I am passionate about driving business growth and optimizing software delivery through innovative strategies and effective collaboration with development and QA teams.
-
-### Professional Experience
-
-Throughout my career, I have worked with several notable organizations, including:
-
-- **Banque Misr**
-- **ITI**
-- **Itworx**
-- **Lynks**
-- **Raye7**
-
-In these roles, I have:
-- Managed and led teams to achieve project goals.
-- Built and maintained robust CI/CD pipelines.
-- Automated infrastructure provisioning to enhance efficiency.
-- Ensured compliance with security best practices.
-- Developed and managed microservices architecture.
+Hello! I am [ibrahimmohelsayed], a seasoned Lead DevOps Engineer with extensive experience in cloud platforms, containerization, and continuous integration/continuous deployment (CI/CD) across various industries. I am passionate about driving business growth and optimizing software delivery through innovative strategies and effective collaboration with development and QA teams.
 
 ### Technical Expertise
 
@@ -51,4 +34,4 @@ I am currently pursuing an MBA in Digital Transformation from [University Name],
 Feel free to reach out if you have any questions or would like to collaborate on a project!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/github/followers/yourusername?​⬤
+[![GitHub](https://img.shields.io/github/followers/ibrahimmohelsayed?​⬤
