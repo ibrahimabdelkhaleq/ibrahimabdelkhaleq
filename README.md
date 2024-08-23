@@ -1,4 +1,4 @@
-# Welcome to Ibrahim Abdel-Khaleq's GitHub Extravaganza 🎉
+# Welcome to Ibrahim Abdel-Khaleq's GitHub 🎉
 
 ## About Me
 
