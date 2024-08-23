@@ -1,10 +1,10 @@
-# Welcome to Ibrahim El Sayed's GitHub Extravaganza 🎉
+# Welcome to Ibrahim Abdel-Khaleq's GitHub Extravaganza 🎉
 
 ## About Me
 
 ### DevOps Wizard & Digital Transformation Sorcerer 🧙‍♂️
 
-Hey there! I'm Ibrahim El Sayed, your friendly neighborhood Lead DevOps Engineer with a knack for cloud magic, container spells, and CI/CD enchantments. When I'm not casting spells to optimize software delivery, I'm diving deep into the mystical realms of business growth and tech innovation.
+Hey there! I'm Ibrahim Abdel-Khaleq, your friendly neighborhood Lead DevOps Engineer with a knack for cloud magic, container spells, and CI/CD enchantments. When I'm not casting spells to optimize software delivery, I'm diving deep into the mystical realms of business growth and tech innovation.
 
 ### My Epic Journey
 
@@ -50,5 +50,5 @@ I'm currently on an epic quest for knowledge, pursuing an MBA in Digital Transfo
 
 Feel free to reach out if you have any questions, want to collaborate, or just want to chat about the latest in tech wizardry!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ibrahimmohelsayed/)
-[![GitHub](https://img.shields.io/github/followers/ibrahimmohelsayed?label=Follow&style=social)](https://github.com/ibrahimmohelsayed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ibrahimabdelkhaleq/)
+[![GitHub](https://img.shields.io/github/followers/ibrahimmohelsayed?label=Follow&style=social)](https://github.com/ibrahimabdelkhaleq)
