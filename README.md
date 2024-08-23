@@ -51,4 +51,4 @@ I'm currently on an epic quest for knowledge, pursuing an MBA in Digital Transfo
 Feel free to reach out if you have any questions, want to collaborate, or just want to chat about the latest in tech wizardry!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ibrahimabdelkhaleq/)
-[![GitHub](https://img.shields.io/github/followers/ibrahimmohelsayed?label=Follow&style=social)](https://github.com/ibrahimabdelkhaleq)
+[![GitHub](https://img.shields.io/github/followers/ibrahimabdelkhaleq?label=Follow&style=social)](https://github.com/ibrahimabdelkhaleq)
